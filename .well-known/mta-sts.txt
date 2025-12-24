@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: adriandylanwulf-de.mail.protection.outlook.com
-max_age: 2419200
+max_age: 86400
